@@ -31,8 +31,8 @@ const FAQSection = () => {
     <section id="faq" className="section-padding">
       <div className="container-max max-w-4xl">
         <div className="text-center space-y-4 mb-16 scroll-animate">
-          <h2 className="text-3xl md:text-5xl font-bold">
-            <span className="gradient-text">الأسئلة الشائعة</span>
+          <h2 className="text-3xl md:text-5xl font-bold" style={{ color: '#6181ff' }}>
+            الأسئلة الشائعة
           </h2>
           <p className="text-xl text-muted-foreground">
             في القسم ده، جمعنا أكتر الأسئلة اللي بتوصلنا من عملاؤنا الكرام، 

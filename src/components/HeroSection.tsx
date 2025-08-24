@@ -21,14 +21,14 @@ const HeroSection = () => {
       <div className="container-max relative z-10">
         <div className="max-w-5xl mx-auto text-center">
           <div className="space-y-8 scroll-animate">
-            <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+            <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold" style={{ lineHeight: '1.6' }}>
               نبني حضورك الرقمي بتصميم 
               <span className="gradient-text-hero block mt-2">
                 مواقع وهوية بصرية مميزة!
               </span>
             </h1>
             
-            <p className="text-lg md:text-xl lg:text-2xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
+            <p className="text-lg md:text-xl lg:text-2xl text-muted-foreground max-w-4xl mx-auto" style={{ lineHeight: '2.5rem' }}>
               سواء كنت تبحث عن موقع احترافي (متجر - صفحة هبوط - موقع تعريفي) أو هوية بصرية تعكس شخصيتك… نحن هنا لتحقيق رؤيتك.
             </p>
             

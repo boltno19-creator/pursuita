@@ -123,7 +123,7 @@
   
   /* Section Styles */
   .section-padding {
-    @apply py-24 px-4 sm:px-6 lg:px-8;
+    @apply py-32 px-4 sm:px-6 lg:px-8;
   }
   
   .container-max {
@@ -145,10 +145,15 @@
 
   /* Navbar Styles */
   .navbar-scrolled {
-    @apply bg-background/80 backdrop-blur-lg shadow-glow border border-border/20;
-    margin: 0.5rem;
+    @apply bg-background/80 backdrop-blur-lg border border-border/20;
+    box-shadow: 0 4px 20px -4px rgba(97, 129, 255, 0.15);
+    margin: 1rem;
     border-radius: 1rem;
-    width: calc(100% - 1rem);
+    width: calc(100% - 2rem);
+  }
+
+  .navbar-scrolled .container-max {
+    padding: 0.75rem 1rem;
   }
 
   /* Background Icons */
@@ -159,16 +164,6 @@
     z-index: 0;
   }
 
-  /* Cheerful Strip Background */
-  .strip-cheerful {
-    background: linear-gradient(135deg, hsl(45 100% 70%) 0%, hsl(35 100% 65%) 100%);
-  }
-
-  /* Vibrant Pricing Background */
-  .pricing-vibrant {
-    background: linear-gradient(135deg, hsl(220 100% 75%) 0%, hsl(250 100% 70%) 100%);
-  }
-  
   /* Scroll Animations */
   .scroll-animate {
     opacity: 0;
@@ -179,6 +174,19 @@
   .scroll-animate.animate {
     opacity: 1;
     transform: translateY(0);
+  }
+
+  /* Increased spacing between content blocks */
+  .space-y-8 > * + * {
+    margin-top: 3rem !important;
+  }
+
+  .space-y-6 > * + * {
+    margin-top: 2.5rem !important;
+  }
+
+  .space-y-4 > * + * {
+    margin-top: 2rem !important;
   }
   
   /* Gradient Text */

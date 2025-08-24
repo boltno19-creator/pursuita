@@ -39,8 +39,9 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-20 px-4">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <a href="#home" className="text-2xl font-bold gradient-text-hero">
-              Pursuita
+            <a href="#home" className="flex items-center gap-3">
+              <img src="/logo.png" alt="Pursuita" className="h-10 w-auto" />
+              <span className="text-2xl font-bold text-primary">Pursuita</span>
             </a>
           </div>
 
@@ -58,7 +59,6 @@ const Navbar = () => {
                   className="text-foreground hover:text-primary transition-colors duration-300 font-medium relative group"
                 >
                   {link.name}
-                  <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-primary group-hover:w-full transition-all duration-300"></span>
                 </a>
               ))}
             </div>

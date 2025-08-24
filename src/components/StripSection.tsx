@@ -13,15 +13,15 @@ const StripSection = ({ title, subtitle, buttonText, className = '' }: StripSect
   };
 
   return (
-    <section className={`section-padding strip-cheerful ${className}`}>
+    <section className={`section-padding ${className}`} style={{ backgroundColor: '#e77e5e' }}>
       <div className="container-max">
         <div className="text-center space-y-6 scroll-animate">
-          <h2 className="text-2xl md:text-4xl font-bold text-background max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-4xl font-bold text-white max-w-4xl mx-auto" style={{ lineHeight: '4rem' }}>
             {title}
           </h2>
           
           {subtitle && (
-            <p className="text-lg md:text-xl text-background/90 max-w-3xl mx-auto leading-relaxed">
+            <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto leading-relaxed">
               {subtitle}
             </p>
           )}
@@ -29,7 +29,7 @@ const StripSection = ({ title, subtitle, buttonText, className = '' }: StripSect
           <div className="pt-4">
             <button
               onClick={handleWhatsAppClick}
-              className="bg-background text-foreground font-bold px-8 py-4 rounded-xl hover:scale-105 hover:shadow-lg transition-all duration-300 flex items-center gap-3 mx-auto border border-background/20"
+              className="bg-white text-gray-900 font-bold px-8 py-4 rounded-xl hover:scale-105 hover:shadow-lg transition-all duration-300 flex items-center gap-3 mx-auto"
             >
               <span>{buttonText}</span>
               <ArrowLeft size={20} className="rotate-180" />

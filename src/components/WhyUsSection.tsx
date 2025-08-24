@@ -6,7 +6,7 @@ const WhyUsSection = () => {
   };
 
   return (
-    <section id="why" className="section-padding bg-background relative overflow-hidden">
+    <section id="why" className="section-padding bg-background relative overflow-hidden" dir="rtl">
       {/* Background Icons */}
       <div className="bg-icons">
         <Shield className="absolute top-20 left-16 w-6 h-6 text-primary animate-float" style={{ animationDelay: '0s' }} />
@@ -21,7 +21,7 @@ const WhyUsSection = () => {
         <div className="max-w-4xl mx-auto">
           <div className="space-y-12 scroll-animate text-center">
             <div className="space-y-6">
-              <h2 className="text-3xl md:text-5xl font-bold text-foreground">
+              <h2 className="text-3xl md:text-5xl font-bold" style={{ color: '#6181ff' }}>
                 لماذا نحن ؟
               </h2>
               

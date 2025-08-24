@@ -68,7 +68,7 @@ const ReviewsSection = () => {
     <section id="reviews" className="section-padding bg-muted/10">
       <div className="container-max">
         <div className="text-center space-y-4 mb-16 scroll-animate">
-          <h2 className="text-3xl md:text-5xl font-bold text-foreground">
+          <h2 className="text-3xl md:text-5xl font-bold" style={{ color: '#6181ff' }}>
             آراء عملاؤنا
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
@@ -79,14 +79,9 @@ const ReviewsSection = () => {
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {reviews.map((review, index) => (
               <div key={review.name} className="bg-card rounded-2xl p-8 hover:scale-[1.02] transition-all duration-300 scroll-animate">
-                <div className="flex items-center gap-4 mb-6">
-                  <div className="w-16 h-16 rounded-full bg-gradient-to-r from-primary to-accent flex items-center justify-center text-primary-foreground font-bold text-xl">
-                    {review.name.charAt(0)}
-                  </div>
-                  <div>
-                    <h3 className="text-lg font-bold text-foreground">{review.name}</h3>
-                    <p className="text-muted-foreground">{review.title}</p>
-                  </div>
+                <div className="mb-6">
+                  <h3 className="text-lg font-bold text-foreground mb-1">{review.name}</h3>
+                  <p className="text-muted-foreground">{review.title}</p>
                 </div>
                 
                 <div className="flex gap-1 mb-4">
@@ -105,22 +100,22 @@ const ReviewsSection = () => {
         {/* Overall Stats */}
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 scroll-animate">
           <div className="text-center">
-            <div className="text-3xl font-bold gradient-text mb-2">4.9</div>
+            <div className="text-3xl font-bold mb-2" style={{ color: '#6181ff' }}>4.9</div>
             <div className="text-sm text-muted-foreground">تقييم العملاء</div>
             <div className="flex justify-center mt-1">
               {renderStars(5)}
             </div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold gradient-text mb-2">150+</div>
+            <div className="text-3xl font-bold mb-2" style={{ color: '#6181ff' }}>150+</div>
             <div className="text-sm text-muted-foreground">مشروع مكتمل</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold gradient-text mb-2">120+</div>
+            <div className="text-3xl font-bold mb-2" style={{ color: '#6181ff' }}>120+</div>
             <div className="text-sm text-muted-foreground">عميل راضي</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold gradient-text mb-2">95%</div>
+            <div className="text-3xl font-bold mb-2" style={{ color: '#6181ff' }}>95%</div>
             <div className="text-sm text-muted-foreground">نسبة الرضا</div>
           </div>
         </div>
