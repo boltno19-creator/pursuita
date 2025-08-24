@@ -59,7 +59,7 @@ const PricingSection = () => {
 
         <div className="text-center mt-16 scroll-animate">
           <h3 className="text-2xl md:text-3xl font-bold text-white mb-6">
-            جاهز تبدأ؟
+            جاهز تبدأ ؟
           </h3>
           <button
             onClick={handleWhatsAppClick}
