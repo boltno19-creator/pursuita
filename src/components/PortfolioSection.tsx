@@ -9,7 +9,7 @@ const PortfolioSection = () => {
       title: 'Payless - Discount Card',
       description: 'موقع عصري لخدمة بطاقات الخصم، بيعرض العروض بطريقة واضحة وبسيط في الحجز عشان يوفّر تجربة استخدام سلسة.',
       image: '/test.png',
-      link: 'https://example.com'
+      link: 'https://www.paylesseg.com'
     },
     {
       title: 'موقع شركة استشارات',
