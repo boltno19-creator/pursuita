@@ -21,7 +21,7 @@ const WhyUsSection = () => {
         <div className="max-w-4xl mx-auto">
           <div className="space-y-12 scroll-animate text-center">
             <div className="space-y-6">
-              <h2 className="text-3xl md:text-5xl font-bold" style={{ color: '#6181ff' }}>
+              <h2 className="text-3xl md:text-5xl font-bold" style={{ color: '#fafcff' }}>
                 لماذا نحن ؟
               </h2>
               
