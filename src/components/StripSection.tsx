@@ -13,7 +13,7 @@ const StripSection = ({ title, subtitle, buttonText, className = '' }: StripSect
   };
 
   return (
-    <section className={`section-padding ${className}`} style={{ backgroundColor: '#e77e5e' }}>
+    <section className={`section-padding ${className}`} style={{ backgroundColor: '#ff7146' }}>
       <div className="container-max">
         <div className="text-center space-y-6 scroll-animate">
           <h2 className="text-2xl md:text-4xl font-bold text-white max-w-4xl mx-auto" style={{ lineHeight: '4rem' }}>
