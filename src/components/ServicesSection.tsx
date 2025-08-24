@@ -26,7 +26,7 @@ const ServicesSection = () => {
     <section id="services" className="section-padding bg-muted/20">
       <div className="container-max">
         <div className="text-center space-y-4 mb-16 scroll-animate">
-          <h2 className="text-3xl md:text-5xl font-bold" style={{ color: '#6181ff' }}>
+          <h2 className="text-3xl md:text-5xl font-bold" style={{ color: '#fafcff' }}>
             الخدمات التي نقدمها
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
