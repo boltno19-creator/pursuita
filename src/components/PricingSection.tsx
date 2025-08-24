@@ -9,7 +9,7 @@ const PricingSection = () => {
     },
     {
       icon: PenTool,
-      title: 'اشرحلنا فكرتك',
+      title: 'إشرحلنا فكرتك',
       description: 'قدم لنا تفاصيل مشروعك وأهدافك بشكل واضح'
     },
     {
@@ -19,7 +19,7 @@ const PricingSection = () => {
     },
     {
       icon: CheckCircle,
-      title: 'تم استلام طلبك',
+      title: 'تم إستلام طلبك',
       description: 'نبدأ فوراً في تنفيذ مشروعك بأعلى جودة'
     }
   ];
