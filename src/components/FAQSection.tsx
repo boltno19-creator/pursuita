@@ -83,7 +83,7 @@ const FAQSection = () => {
             onClick={() => window.open('https://wa.me/201025736993', '_blank')}
             className="btn-primary"
           >
-            اسأل سؤالك
+            إسأل سؤالك
           </button>
         </div>
       </div>
