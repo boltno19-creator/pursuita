@@ -42,7 +42,7 @@ const WhyUsSection = () => {
               </div>
               
               <div className="space-y-4 text-right">
-                <h3 className="text-xl font-bold text-foreground flex items-center gap-3 justify-end">
+                <h3 dir="ltr" className="text-xl font-bold text-foreground flex items-center gap-3 justify-end">
                   <span>مرونة في التعامل</span>
                   <Clock className="w-6 h-6 text-accent" />
                 </h3>
@@ -52,7 +52,7 @@ const WhyUsSection = () => {
               </div>
               
               <div className="space-y-4 text-right">
-                <h3 className="text-xl font-bold text-foreground flex items-center gap-3 justify-end">
+                <h3 dir="ltr" className="text-xl font-bold text-foreground flex items-center gap-3 justify-end">
                   <span>دعم مستمر</span>
                   <Users className="w-6 h-6 text-primary" />
                 </h3>
@@ -62,7 +62,7 @@ const WhyUsSection = () => {
               </div>
               
               <div className="space-y-4 text-right">
-                <h3 className="text-xl font-bold text-foreground flex items-center gap-3 justify-end">
+                <h3 dir="ltr" className="text-xl font-bold text-foreground flex items-center gap-3 justify-end">
                   <span>جودة عالية بأسعار منافسة</span>
                   <Award className="w-6 h-6 text-accent" />
                 </h3>
