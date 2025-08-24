@@ -8,7 +8,7 @@ const PortfolioSection = () => {
     {
       title: 'متجر إليكتروني للأزياء',
       description: 'متجر إليكتروني شامل بنظام دفع آمن وإدارة المخزون',
-      image: '/logo.png',
+      image: '/test.png',
       link: 'https://example.com'
     },
     {
