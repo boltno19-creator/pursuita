@@ -49,7 +49,7 @@ const Index = () => {
         
         <StripSection
           title="متخليش حاجه تعطلك! ادفع المبلغ اللي يريحك، وابدأ رحلتك مع موقع وهوية بصرية احترافية."
-          buttonText="ابدأ الآن"
+          buttonText="إبدأ الآن"
         />
         
         <ServicesSection />
