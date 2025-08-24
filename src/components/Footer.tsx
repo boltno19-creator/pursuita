@@ -28,7 +28,7 @@ const Footer = () => {
           {/* Company Info - 6 columns */}
           <div className="lg:col-span-6 space-y-6">
             <div>
-             <img src="/logo.png" alt="Pursuita" className="h-10 w-auto" />
+             <img src="/logo.png" alt="Pursuita" className="h-12 w-auto" />
               <p className="text-muted-foreground leading-relaxed max-w-md">
                 وكالة رقمية متخصصة في تصميم المواقع والهوية البصرية. نحول أفكارك إلى واقع رقمي احترافي 
                 يساعدك على تحقيق أهدافك وبناء حضور قوي على الإنترنت.
