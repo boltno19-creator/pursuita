@@ -29,7 +29,7 @@ const Footer = () => {
           <div className="lg:col-span-6 space-y-6">
             <div>
              <img src="/logo.png" alt="Pursuita" className="h-12 w-auto" />
-              <p className="text-muted-foreground leading-relaxed max-w-md">
+              <p className="text-muted-foreground leading-relaxed max-w-md pt-4">
                 وكالة رقمية متخصصة في تصميم المواقع والهوية البصرية. نحول أفكارك إلى واقع رقمي احترافي 
                 يساعدك على تحقيق أهدافك وبناء حضور قوي على الإنترنت.
               </p>
