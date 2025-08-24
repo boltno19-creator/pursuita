@@ -12,10 +12,10 @@ const PortfolioSection = () => {
       link: 'https://www.paylesseg.com'
     },
     {
-      title: 'موقع شركة استشارات',
-      description: 'موقع احترافي لشركة استشارات مالية مع نظام حجز المواعيد',
+      title: 'Medical Conference',
+      description: 'موقع مخصص لمؤتمر طبي، مصمم بشكل احترافي يوضح تفاصيل الفعاليات والفئات المستهدفة مع سهولة في التسجيل والمتابعة',
       image: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=800&q=80',
-      link: 'https://example.com'
+      link: 'https://effervescent-bavarois-567c87.netlify.app'
     },
     {
       title: 'تطبيق ويب للتعلم',
