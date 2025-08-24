@@ -24,10 +24,10 @@ const PortfolioSection = () => {
       link: 'https://pursuita-agency.github.io/MyCv'
     },
     {
-      title: 'موقع مطعم',
-      description: 'موقع أنيق لمطعم مع قائمة طعام تفاعلية ونظام طلبات أونلاين',
+      title: 'المسار الرائد للمقاولات',
+      description: 'موقع تعريفي متكامل يوضح خدمات وإنجازات الشركة في مجال المقاولات، مع تصميم احترافي يبرز هوية العلامة التجارية',
       image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80',
-      link: 'https://example.com'
+      link: 'https://pursuita-agency.github.io/msaar'
     },
     {
       title: 'موقع عقاري',
