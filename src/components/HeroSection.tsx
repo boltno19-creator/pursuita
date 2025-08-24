@@ -60,7 +60,7 @@ const HeroSection = () => {
                 <div className="text-muted-foreground mt-2">عميل راضي</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl md:text-4xl font-bold text-foreground">3+</div>
+                <div className="text-3xl md:text-4xl font-bold text-foreground">5+</div>
                 <div className="text-muted-foreground mt-2">سنوات خبرة</div>
               </div>
             </div>
