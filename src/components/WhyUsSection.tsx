@@ -32,7 +32,7 @@ const WhyUsSection = () => {
             
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-4 text-right">
-                <h3 className="text-xl font-bold text-foreground flex items-center gap-3 justify-end">
+                <h3 dir="ltr" className="text-xl font-bold text-foreground flex items-center gap-3 justify-end">
                   <span>خبرة متنوعة</span>
                   <Shield className="w-6 h-6 text-primary" />
                 </h3>
