@@ -6,8 +6,8 @@ const PortfolioSection = () => {
 
   const websites = [
     {
-      title: 'متجر إليكتروني للأزياء',
-      description: 'متجر إليكتروني شامل بنظام دفع آمن وإدارة المخزون',
+      title: 'Payless - Discount Card',
+      description: 'موقع عصري لخدمة بطاقات الخصم، بيعرض العروض بطريقة واضحة وبسيط في الحجز عشان يوفّر تجربة استخدام سلسة.',
       image: '/test.png',
       link: 'https://example.com'
     },
