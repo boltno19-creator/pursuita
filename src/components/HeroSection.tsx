@@ -29,7 +29,9 @@ const HeroSection = () => {
             </h1>
             
             <p className="text-lg md:text-xl lg:text-2xl text-muted-foreground max-w-4xl mx-auto" style={{ lineHeight: '2.5rem' }}>
-              سواء كنت تبحث عن موقع احترافي (متجر - صفحة هبوط - موقع تعريفي) أو هوية بصرية تعكس شخصيتك… نحن هنا لتحقيق رؤيتك.
+              سواء كنت تبحث عن موقع إحترافي (متجر - صفحة هبوط - موقع تعريفي)
+              أو هوية بصرية تعكس شخصيتك
+              نحن هنا لتحقيق رؤيتك.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-8">
