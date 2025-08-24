@@ -31,7 +31,7 @@ const FAQSection = () => {
     <section id="faq" className="section-padding">
       <div className="container-max max-w-4xl">
         <div className="text-center space-y-4 mb-16 scroll-animate">
-          <h2 className="text-3xl md:text-5xl font-bold" style={{ color: '#6181ff' }}>
+          <h2 className="text-3xl md:text-5xl font-bold" style={{ color: '#fafcff' }}>
             الأسئلة الشائعة
           </h2>
           <p className="text-xl text-muted-foreground">
