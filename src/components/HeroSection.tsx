@@ -37,7 +37,7 @@ const HeroSection = () => {
                 onClick={handleWhatsAppClick}
                 className="btn-hero text-lg px-10 py-5 flex items-center gap-3"
               >
-                <span>ابدأ مشروعك الآن</span>
+                <span>إبدأ مشروعك الآن</span>
                 <ArrowLeft size={20} className="rotate-180" />
               </button>
               
@@ -45,7 +45,7 @@ const HeroSection = () => {
                 onClick={() => document.querySelector('#services')?.scrollIntoView({ behavior: 'smooth' })}
                 className="btn-outline text-lg px-10 py-5"
               >
-                استكشف خدماتنا
+                إستكشف خدماتنا
               </button>
             </div>
             
