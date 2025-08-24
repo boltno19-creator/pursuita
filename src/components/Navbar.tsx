@@ -41,7 +41,7 @@ const Navbar = () => {
           <div className="flex-shrink-0">
             <a href="#home" className="flex items-center gap-3">
               <img src="/logo.png" alt="Pursuita" className="h-10 w-auto" />
-              <span className="text-2xl font-bold text-primary">Pursuita</span>
+              <span className="text-2xl font-bold text-primary"></span>
             </a>
           </div>
 
