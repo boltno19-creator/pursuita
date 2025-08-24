@@ -191,7 +191,7 @@ const PortfolioSection = () => {
                         onClick={(e) => {
                           e.stopPropagation();
                           // Modal functionality can be added here
-                          alert(https://pursuita-agency.github.io/pursuita/assets/images/design/Ahmed_El_Sallab%20Social_media_posts.png);
+                          alert(`عرض ${design.title} - يمكن إضافة مودال هنا`);
                         }}
                         className="bg-accent text-accent-foreground p-2 rounded-full hover:scale-110 transition-transform duration-200"
                       >
