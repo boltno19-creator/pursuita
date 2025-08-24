@@ -30,8 +30,8 @@ const PortfolioSection = () => {
       link: 'https://pursuita-agency.github.io/msaar'
     },
     {
-      title: 'موقع عقاري',
-      description: 'منصة عقارية شاملة مع خرائط تفاعلية ونظام بحث متقدم',
+      title: 'أصول',
+      description: 'موقع عقاري مميز مع لوحة تحكم٬ لعرض المشاريع والوحدات السكنية، بتصميم عصري سهل الاستخدام يساعد العملاء على تصفح واختيار ما يناسبهم بسهولة',
       image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80',
       link: 'https://example.com'
     },
