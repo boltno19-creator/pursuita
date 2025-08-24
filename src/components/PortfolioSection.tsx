@@ -78,7 +78,7 @@ const PortfolioSection = () => {
             معرض أعمالنا
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            استكشف مجموعة من أفضل أعمالنا في تصميم المواقع والهوية البصرية
+            إستكشف مجموعة من أفضل أعمالنا في تصميم المواقع والهوية البصرية
           </p>
         </div>
 
