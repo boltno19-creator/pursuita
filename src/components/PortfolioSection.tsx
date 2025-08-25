@@ -69,22 +69,16 @@ const PortfolioSection = () => {
       category: 'هوية بصرية'
     },
     {
-      title: 'تصميم بروشور طبي',
-      description: 'مطبوعات طبية احترافية',
+      title: 'Ahmed El Sallab',
+      description: 'تصاميم سوشيال ميديا تعكس فخامة وتميز أحمد السلاب',
       image: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&w=500&q=80',
-      category: 'مطبوعات'
+      category: 'سوشيال ميديا'
     },
     {
-      title: 'شعار شركة تقنية',
-      description: 'شعار حديث ومبتكر',
+      title: 'Chefaa',
+      description: 'تصميم يعكس هوية شفاء بروح عصرية واحترافية.',
       image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&w=500&q=80',
       category: 'شعارات'
-    },
-    {
-      title: 'تصميم كتالوج منتجات',
-      description: 'كتالوج منتجات أنيق ومنظم',
-      image: 'https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=500&q=80',
-      category: 'كتالوجات'
     }
   ];
 
