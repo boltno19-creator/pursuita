@@ -33,7 +33,7 @@ const PortfolioSection = () => {
       title: 'أصول',
       description: 'موقع عقاري مميز مع لوحة تحكم٫ لعرض المشاريع والوحدات السكنية، بتصميم عصري سهل الاستخدام يساعد العملاء على تصفح واختيار ما يناسبهم بسهولة',
       image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80',
-      link: 'https://example.com'
+      link: 'https://fantastic-lily-ccf7a9.netlify.app'
     },
     {
       title: 'بورتفوليو شخصي',
