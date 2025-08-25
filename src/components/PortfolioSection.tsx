@@ -39,13 +39,13 @@ const PortfolioSection = () => {
       title: 'مدار الساعة للنظافة',
       description: 'موقع تعريفي لخدمات النظافة المتكاملة، يبرز الباقات للشركات والمنازل مع نموذج طلب سريع وتجربة استخدام سلسة',
       image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80',
-      link: 'https://pursuita-agency.github.io/cleanliness/'
+      link: 'https://pursuita-agency.github.io/cleanliness'
     },
      {
-      title: 'بورتفوليو شخصي',
-      description: 'موقع بورتفوليو احترافي لمصور فوتوغرافي مع معرض أعمال متطور',
+      title: 'Zaytona',
+      description: 'موقع متخصص في خدمات الحجامة والطب البديل، يعرض الفوائد، المواعيد، وخدمة الحجز أونلاين بسهولة',
       image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80',
-      link: 'https://example.com'
+      link: 'https://pursuita-agency.github.io/Zaytona'
     },
      {
       title: 'بورتفوليو شخصي',
