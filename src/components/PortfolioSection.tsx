@@ -26,7 +26,7 @@ const PortfolioSection = () => {
     {
       title: 'المسار الرائد للمقاولات',
       description: 'موقع تعريفي متكامل يوضح خدمات وإنجازات الشركة في مجال المقاولات، مع تصميم احترافي يبرز هوية العلامة التجارية',
-      image: '/raed.png',
+      image: '/elraed.png',
       link: 'https://pursuita-agency.github.io/msaar'
     },
     {
