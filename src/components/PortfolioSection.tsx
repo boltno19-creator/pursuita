@@ -51,13 +51,13 @@ const PortfolioSection = () => {
       title: 'Invoice',
       description: 'نظام إلكتروني مبسط لإدارة وإصدار الفواتير، يساعد الشركات والأفراد على تتبع المدفوعات وتنظيم عملياتهم المالية باحترافية',
       image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80',
-      link: 'https://pursuita-agency.github.io/invoice/'
+      link: 'https://pursuita-agency.github.io/invoice'
     },
      {
-      title: 'بورتفوليو شخصي',
-      description: 'موقع بورتفوليو احترافي لمصور فوتوغرافي مع معرض أعمال متطور',
+      title: 'Password Generator',
+      description: 'أداة ذكية لتوليد كلمات مرور قوية وعشوائية، تضمن أمان الحسابات وحماية البيانات من الاختراق',
       image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80',
-      link: 'https://example.com'
+      link: 'https://pursuita-agency.github.io/generate'
     },
      {
       title: 'بورتفوليو شخصي',
