@@ -77,7 +77,7 @@ const PortfolioSection = () => {
     {
       title: 'Chefaa',
       description: 'تصميم يعكس هوية شفاء بروح عصرية واحترافية.',
-      image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&w=500&q=80',
+      image: '/chefaa.png',
       category: 'شعارات'
     }
   ];
