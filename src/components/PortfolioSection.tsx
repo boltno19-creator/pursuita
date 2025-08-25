@@ -8,13 +8,13 @@ const PortfolioSection = () => {
     {
       title: 'Payless - Discount Card',
       description: 'موقع عصري لخدمة بطاقات الخصم، بيعرض العروض بطريقة واضحة وبسيط في الحجز عشان يوفّر تجربة استخدام سلسة.',
-      image: '/test.png',
+      image: '/payless.png',
       link: 'https://www.paylesseg.com'
     },
     {
       title: 'Medical Conference',
       description: 'موقع مخصص لمؤتمر طبي، مصمم بشكل احترافي يوضح تفاصيل الفعاليات والفئات المستهدفة مع سهولة في التسجيل والمتابعة',
-      image: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=800&q=80',
+      image: '/medical.png',
       link: 'https://effervescent-bavarois-567c87.netlify.app'
     },
     {
