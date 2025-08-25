@@ -18,7 +18,7 @@ const PortfolioSection = () => {
       link: 'https://effervescent-bavarois-567c87.netlify.app'
     },
     {
-      title: 'My CV',
+      title: 'About Me',
       description: 'موقع شخصي تفاعلي لعرض السيرة الذاتية بطريقة عصرية، بيوضح الخبرات والمهارات بشكل منظم وجذاب',
       image: 'https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=800&q=80',
       link: 'https://pursuita-agency.github.io/MyCv'
