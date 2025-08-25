@@ -65,13 +65,13 @@ const PortfolioSection = () => {
     {
       title: 'JUHHD Logo Branding',
       description: 'هوية بصرية راقية تعكس احترافية JUHHD وتفرد علامتها',
-      image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=500&q=80',
+      image: '/juhhd.png',
       category: 'هوية بصرية'
     },
     {
       title: 'Ahmed El Sallab',
       description: 'تصاميم سوشيال ميديا تعكس فخامة وتميز أحمد السلاب',
-      image: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&w=500&q=80',
+      image: '/salab.png',
       category: 'سوشيال ميديا'
     },
     {
