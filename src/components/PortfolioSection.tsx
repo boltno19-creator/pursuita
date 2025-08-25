@@ -20,43 +20,43 @@ const PortfolioSection = () => {
     {
       title: 'About Me',
       description: 'موقع شخصي تفاعلي لعرض السيرة الذاتية بطريقة عصرية، بيوضح الخبرات والمهارات بشكل منظم وجذاب',
-      image: 'https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=800&q=80',
+      image: '/about.png',
       link: 'https://pursuita-agency.github.io/MyCv'
     },
     {
       title: 'المسار الرائد للمقاولات',
       description: 'موقع تعريفي متكامل يوضح خدمات وإنجازات الشركة في مجال المقاولات، مع تصميم احترافي يبرز هوية العلامة التجارية',
-      image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80',
+      image: '/raed.png',
       link: 'https://pursuita-agency.github.io/msaar'
     },
     {
       title: 'أصول',
       description: 'موقع عقاري مميز مع لوحة تحكم٫ لعرض المشاريع والوحدات السكنية، بتصميم عصري سهل الاستخدام يساعد العملاء على تصفح واختيار ما يناسبهم بسهولة',
-      image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80',
+      image: '/osool.png',
       link: 'https://fantastic-lily-ccf7a9.netlify.app'
     },
     {
       title: 'مدار الساعة للنظافة',
       description: 'موقع تعريفي لخدمات النظافة المتكاملة، يبرز الباقات للشركات والمنازل مع نموذج طلب سريع وتجربة استخدام سلسة',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80',
+      image: '/mdar.png',
       link: 'https://pursuita-agency.github.io/cleanliness'
     },
      {
       title: 'Zaytona',
       description: 'موقع متخصص في خدمات الحجامة والطب البديل، يعرض الفوائد، المواعيد، وخدمة الحجز أونلاين بسهولة',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80',
+      image: '/zaytona.png',
       link: 'https://pursuita-agency.github.io/Zaytona'
     },
      {
       title: 'Invoice',
       description: 'نظام إلكتروني مبسط لإدارة وإصدار الفواتير، يساعد الشركات والأفراد على تتبع المدفوعات وتنظيم عملياتهم المالية باحترافية',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80',
+      image: '/invoice.png',
       link: 'https://pursuita-agency.github.io/invoice'
     },
      {
       title: 'Password Generator',
       description: 'أداة ذكية لتوليد كلمات مرور قوية وعشوائية، تضمن أمان الحسابات وحماية البيانات من الاختراق',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80',
+      image: '/password.png',
       link: 'https://pursuita-agency.github.io/generate'
     }
   ];
